@@ -1,0 +1,27 @@
+.subtitle {
+    font-size: 100px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+ {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 100%;
+    max-width: 500px;
+}
